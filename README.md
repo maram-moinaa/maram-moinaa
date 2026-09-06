@@ -119,9 +119,9 @@ Contributing to technical activities, workshops and student-led initiatives.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maram-moinaa&show_icons=true&hide_border=true&theme=transparent" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=maram-moinaa&show_icons=true&hide_border=true&theme=transparent">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maram-moinaa&layout=compact&hide_border=true&theme=transparent" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=maram-moinaa&show_icons=true&hide_border=true&theme=transparent">
 
 </div>
 
