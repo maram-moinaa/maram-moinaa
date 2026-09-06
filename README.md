@@ -17,7 +17,7 @@
 
 ## `whoami`
 
-I'm a **2nd-year Computer Engineering student** interested in the intersection of **Artificial Intelligence, software engineering and cybersecurity**.
+I'm a **2nd-year Computer Engineering student** interested in the intersection of **Artificial Intelligence, software engineering **.
 
 I enjoy taking an idea from a simple sketch to something that actually works.
 
@@ -29,7 +29,6 @@ Machine Learning / Deep Learning
 Generative AI & AI Agents
 Speech & Language Processing
 Backend Engineering
-Cybersecurity
 ```
 
 > I don't want to just use AI.
@@ -49,33 +48,11 @@ Building an ASR pipeline dedicated to **Tunisian Arabic (Derja)**, from data pre
 
 ---
 
-### 🏥 HealthSphere
+### face-tracking-servo
 
-**AI-powered personalized assistance platform**
+**A small experiment at the intersection of Computer Vision and hardware.
 
-A project exploring how intelligent systems can provide personalized assistance and recommendations through a modern backend architecture.
-
-**Stack:** Python · FastAPI · AI · Database
-
----
-
-### 🌱 EcoCity Breathe
-
-**AI × IoT × Smart City**
-
-An environmental monitoring concept combining intelligent analysis and connected devices to explore smarter urban solutions.
-
-**Stack:** Python · AI · IoT
-
----
-
-### 🛡️ CyberSentinel AI
-
-**AI for Cybersecurity**
-
-Exploring AI agents capable of analyzing security events, reasoning over threats and assisting with cybersecurity workflows.
-
-**Focus:** AI Agents · Cybersecurity · Python
+A PC camera detects the orientation of a face, and a servo motor reacts to the detected direction.
 
 ---
 
