@@ -121,7 +121,7 @@ Contributing to technical activities, workshops and student-led initiatives.
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maram-moinaa&layout=compact&hide_border=true&theme=transparent" height="170">
 
 </div>
 
@@ -147,7 +147,7 @@ That's the point.
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat-square\&color=grey)
+![Profile Views](https://komarev.com/ghpvc/?username=maram-moinaa\&style=flat-square\&color=grey)
 
 <br><br>
 
